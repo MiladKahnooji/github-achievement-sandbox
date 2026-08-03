@@ -14,6 +14,14 @@ Use small, useful documentation changes to practice the complete GitHub flow wit
 6. Merge through the repository normal workflow.
 7. Verify the merge and clean up the topic branch when appropriate.
 
+## Pull-Request Checklist
+
+- [ ] The change has one clear purpose.
+- [ ] The complete diff contains only intended files.
+- [ ] Formatting and links have been checked.
+- [ ] No credentials, private data, or machine-specific paths are present.
+- [ ] The pull-request description records the validation performed.
+
 ## Safety Notes
 
 - Never include credentials or private data.
